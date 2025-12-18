@@ -8,6 +8,9 @@ Sobre mim:
 - 📖 Estudando JavaScript & React
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeffsdef&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffsdef&theme=dark&layout=compact&langs_count=16"/>
+
+<a href="https://github.com/jeffsdef">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffsdef&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffsdef&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 </div>
